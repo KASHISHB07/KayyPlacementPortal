@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f172a;
+  color: #e5e7eb; /* Tailwind gray-200 */
+}
+
+h1, h2, h3, h4 {
+  color: #f8fafc; /* Tailwind gray-100 */
+}
+
+button {
+  font-weight: bold;
+}
